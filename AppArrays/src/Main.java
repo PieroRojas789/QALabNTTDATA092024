@@ -16,12 +16,12 @@ public class Main {
         String config[][] = {
                 {"123.123.42.10", "userdesa02", "1234", "DESA", "otro campo"},   //0
                 {"123.123.42.12", "jkbe", "21231", "TEST"},        //1
-                {"www.google.com", "jkbenites", "alalals", "PROD"} //2
+                {"www.google.com", "jkbenites", "alalalSs", "PROD"} //2
         };
 
 
-        //Hacer doble bucle for/for
-
+        //Hacer doble bucle for/forSS
+        System.out.println(config[XTEST][CAMB]);
 
         //CLAVE: DESARROLLO
 
